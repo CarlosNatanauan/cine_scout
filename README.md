@@ -30,7 +30,7 @@ The CineScout is a simple Flutter application that serves as a test app for a RE
 
 ## API
 
-This application uses the [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie data. The TMDb API provides access to a vast collection of movie and TV show data, including:
+This application uses the **REST API** provided by [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie data. The TMDb API is a public API that allows developers to access a vast collection of movie and TV show data through standard HTTP requests. Key features of the API include:
 
 - Movie details (title, overview, release date, genres, etc.)
 - Cast information
