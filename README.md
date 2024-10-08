@@ -1,13 +1,19 @@
 # CineScout
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cf1b1e1-216c-4744-9e2a-7b0c85b0247b" width="230" height="500"/>
+  <br />
+  <strong>CineScout App Showcase</strong>
+</p>
+
 ## Overview
 
-The CineScout is a simple Flutter application that serves as a test app for a REST API. It allows users to explore and search for movies. Users can view popular, upcoming, now playing, and top-rated movies. The app also includes a search feature for specific movie titles and provides detailed information about selected movies.
+CineScout is a simple Flutter application that serves as a test app for a REST API. It allows users to explore and search for movies. Users can view popular, upcoming, now playing, and top-rated movies. The app also includes a search feature for specific movie titles and provides detailed information about selected movies.
 
-![01cine_search](https://github.com/user-attachments/assets/663afdc1-47f3-4406-8e12-b005bff91803)
-
-![02cine_search](https://github.com/user-attachments/assets/73edc02a-a179-41db-813b-34c6d5d683d9)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/663afdc1-47f3-4406-8e12-b005bff91803" width="700" />
+  <img src="https://github.com/user-attachments/assets/73edc02a-a179-41db-813b-34c6d5d683d9" width="700" />
+</p>
 
 ## Features
 
