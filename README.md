@@ -1,8 +1,8 @@
-# CineSearch
+# CineScout
 
 ## Overview
 
-The Movie App is a simple Flutter application that serves as a test app for a REST API. It allows users to explore and search for movies. Users can view popular, upcoming, now playing, and top-rated movies. The app also includes a search feature for specific movie titles and provides detailed information about selected movies.
+The CineScout is a simple Flutter application that serves as a test app for a REST API. It allows users to explore and search for movies. Users can view popular, upcoming, now playing, and top-rated movies. The app also includes a search feature for specific movie titles and provides detailed information about selected movies.
 
 ![01cine_search](https://github.com/user-attachments/assets/663afdc1-47f3-4406-8e12-b005bff91803)
 
